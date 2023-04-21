@@ -486,6 +486,9 @@ onUnmounted(() => {
               <SvgIcon icon="ri:bubble-chart-fill" class="mr-2 text-3xl" />
               <span>Aha~</span>
             </div>
+            <div>
+            <b>请注意：本网站仅供实验室内部学习与研究使用，请勿外传！</b>
+            </div>
           </template>
           <template v-else>
             <div>
